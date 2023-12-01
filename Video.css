@@ -1,0 +1,32 @@
+body{
+    margin-top: 30px;
+    padding: 0;
+    background-color: linen; 
+}
+
+#cont{
+    background-color: lightcoral; 
+    border:2px solid black;
+    margin: auto;
+    width: 400PX;
+    height: 100vh;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height: 35%;
+}
+video{
+    width:300px;
+}
+.fa-solid{
+    margin: 20px;
+    
+}
+
+#volume-cont{
+    margin-left: 200px;
+}
+
+
